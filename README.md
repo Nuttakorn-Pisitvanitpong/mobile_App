@@ -3,6 +3,8 @@
 #โมบายแอปพลิเคชั่น#Dev_Bet
 #การประมูลสินค้า สามารถลงประมูลสินค้า เเละประมูลสินค้าได้เบื้องต้น
 
+วิดีโอตัวอย่างการใช้งาน:https://youtu.be/V7mO4xPzKdM
+
 หน้าจอการทำงานเมื่อเข้าใช้างาน
 
 [![Capture.png](https://i.postimg.cc/2yv23VcJ/Capture.png)](https://postimg.cc/9wmGnFjt)
